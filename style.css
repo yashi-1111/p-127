@@ -1,0 +1,21 @@
+html{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading{
+    background-color: #c9625b;
+    margin: -20px;
+    padding:5px;
+}
+
+#top{
+    font-size: 30px;
+    color: aliceblue;
+}
+#song_name{
+    background-color: beige;
+    width: fit-content;
+    padding: 8px;
+    font-size: 30px;
+    border-radius: 7px;
+}   
